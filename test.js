@@ -1,2 +1,2 @@
-console.log('Test (5)');
-console.log('Deleted all the current JS files except for this JS file');
+console.log('New git-file');
+console.log('New directory, new everything');
