@@ -1,2 +1,2 @@
-console.log('Test');
-console.log('Version 1');
+console.log('Test (5)');
+console.log('Deleted all the current JS files except for this JS file');
